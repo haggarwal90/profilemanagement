@@ -1,0 +1,25 @@
+{
+  "name": "profilemanagement",
+  "version": "1.0.0",
+  "description": "Create/login/View Profile",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/haggarwal90/profilemanagement.git"
+  },
+  "author": "Himanshu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haggarwal90/profilemanagement/issues"
+  },
+  "homepage": "https://github.com/haggarwal90/profilemanagement",
+  "dependencies": {
+    "express": "^4.15.2",
+    "body-parser": "^1.17.1",
+    "mongoose": "^4.8.6"
+  }
+}
